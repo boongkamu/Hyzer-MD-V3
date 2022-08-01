@@ -1,20 +1,20 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['6281359352611'] 
+global.mods = [6281359352611] 
+global.prems = ['6289680543446'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
-global.numberowner = '6287892711054'
-global.instagram = 'https://instagram.com/hyzer_stfu'
+global.nameowner = 'kaja'
+global.numberowner = '6281359352611'
+global.instagram = 'http://instagram.com/obitto_21'
 global.github = 'https://github.com/Hyzerr'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
+global.dana = '089680543446'
+global.pulsa = '081359352611'
 global.gopay = '087892711054'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Yuno Gasai Bot'
-global.gc = 'bit.ly/AnyaBot-Group'
+global.namebot = '𝕭𝖔𝖙 𝖂𝖍𝖆𝖙𝖘𝕬𝖕𝖕'
+global.gc = 'https://chat.whatsapp.com/Ju7U2LlYqYICMKvT6hPsRP'
 global.web = 'https://github.com/Hyzerr' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
@@ -26,7 +26,7 @@ global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'ꜱʜɪʀᴏ ɪᴋᴀꜱᴀᴋɪ ʙᴏᴛ'
 global.watermark = wm
 global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
-global.wm3 = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm3 = '© 𝕭𝖔𝖙 𝖂𝖍𝖆𝖙𝖘𝕬𝖕𝖕'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '2022'
-global.author = '© Hyzer Official'
+global.packname = 'stickerby'
+global.author = '© 𝕭𝖔𝖙 𝖂𝖍𝖆𝖙𝖘𝕬𝖕𝖕'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
